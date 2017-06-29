@@ -1,0 +1,22 @@
+{
+  "name": "wiremock-client",
+  "version": "0.0.1",
+  "description": "a javascript wiremock client",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackKitten/wiremock-client.git"
+  },
+  "author": "Ben Bertrands",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackKitten/wiremock-client/issues"
+  },
+  "homepage": "https://github.com/BlackKitten/wiremock-client#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
